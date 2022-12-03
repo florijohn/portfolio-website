@@ -15,18 +15,18 @@
     "styled-normalize": "^8.0.7",
     "react-icons": "^4.2.0"
   },
-  "description": "![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)",
+  "description": "Floris John",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianhajdin/portfolio_website.git"
+    "url": "git+https://github.com/florijohn/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adrianhajdin/portfolio_website/issues"
+    "url": "https://github.com/florijohn/"
   },
-  "homepage": "https://github.com/adrianhajdin/portfolio_website#readme"
+  "homepage": "https://github.com/florijohn/"
 }
