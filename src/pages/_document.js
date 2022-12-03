@@ -32,11 +32,12 @@ export default class MyDocument extends Document {
       <Html lang='en-GB'>
         <Head>
           <meta charSet='utf-8' />
-          <title>Floris John</title>
+          <title>Floris John | Personal Website</title>
+          <meta name="robots" content="index, follow" />
           <meta name='description' content='Floris John' />
           <meta name='author' content='Floris John' />
           <meta name='keywords' content='Floris John' />
-          <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+          <link href="/fonts.css" rel="stylesheet"/>
         </Head>
         <body>
           <Main />
