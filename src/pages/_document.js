@@ -39,6 +39,7 @@ export default class MyDocument extends Document {
           <meta name='keywords' content='Floris John' />
           <link href="/fonts/fonts.css" rel="stylesheet"/>
           <link rel="preload" as="font" />
+          <meta name="theme-color" content="#000"/>
         </Head>
         <body>
           <Main />
