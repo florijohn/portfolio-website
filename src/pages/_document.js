@@ -41,10 +41,16 @@ export default class MyDocument extends Document {
           <link rel="preload" as="font" />
           <meta name="theme-color" content="#000"/>
           
-          <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WWD88KL');</script>
+          <meta property="og:title" content="Floris John | Personal Website" />
+          <meta property="og:description" content="Floris John" />
+          <meta property="og:image" content="https://florisjohn.de/images/foris_bild.jpg" />
+          <meta property="og:url" content="https://florisjohn.de" />
+          <meta property="og:site_name" content="Floris John | Personal Website" />
+          <meta property="og:type" content="website" />
+          <meta property="og:locale" content="en_GB" />
+
         </Head>
         <body>
-          <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWD88KL"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <Main />
           <NextScript />
         </body>
