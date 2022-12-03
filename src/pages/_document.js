@@ -37,7 +37,7 @@ export default class MyDocument extends Document {
           <meta name='description' content='Floris John' />
           <meta name='author' content='Floris John' />
           <meta name='keywords' content='Floris John' />
-          <link href="/fonts.css" rel="stylesheet"/>
+          <link href="/fonts/fonts.css" rel="stylesheet"/>
           <link rel="preload" as="font" />
         </Head>
         <body>
