@@ -25,4 +25,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Got an AdSense Account', },
   { year: 2020, text: 'Reached 4 million monthly users', },
   { year: 2021, text: 'got', },
+  { year: 2022, text: 'got', },
+  { year: 2021, text: 'got', },
 ];
