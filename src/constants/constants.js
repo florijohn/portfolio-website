@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Favgenerator.com',
-    description:"Website to generate your own favicons",
+    description:"Website to generate your own favicons!",
     image: '/images/favgenerator.PNG',
     tags: ['Fav Icons', 'Blog', 'AdSense'],
     source: 'https://favgenerator.com',
