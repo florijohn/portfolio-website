@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Al´s Pizza und Pasta Hamm',
     description: "Shopify Store for ordering fresh Pizza in Hamm",
-      image: '/images/alspizza.png',
+      image: '/images/alspizza.PNG',
       tags: ['Hamm', 'Pasta', 'Pizza'],
     source: 'https://als-pizza.de',
     visit: 'https://als-pizza.de',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'iZoomYou.com',
     description:"A website with a lot of information about Instagram",
-    image: '/images/izoomyou.png',
+    image: '/images/izoomyou.PNG',
     tags: ['Instagram', 'Blog', 'AdSense'],
     source: 'https://izoomyou.com',
     visit: 'https://izoomyou.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'SVE Heessen Shop',
     description:"Buy your favorite products from SVE Heessen",
-    image: '/images/sve.png',
+    image: '/images/sve.PNG',
     tags: ['SVE Heessen', 'Blog', 'Shopify'],
     source: 'https://shop.sve-heessen.com',
     visit: 'https://shop.sve-heessen.com',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Favgenerator.com',
     description:"Website to generate your own favicons",
-    image: '/images/favgenerator.png',
+    image: '/images/favgenerator.PNG',
     tags: ['Fav Icons', 'Blog', 'AdSense'],
     source: 'https://favgenerator.com',
     visit: 'https://favgenerator.com',
